@@ -1,0 +1,35 @@
+.fav{
+  stroke: rgb(255, 65, 65);
+  stroke-width: 2px;
+  fill: rgb(255, 255, 255);
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.fav:hover{
+  fill: rgb(255, 168, 168);
+}
+
+.fav-active{
+  fill: rgb(255, 65, 65);
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+.weather-icon{
+  height: 80px;
+  width: 80px;
+}
+
+.weathercard{
+  position: relative;
+}
+
+.thermameter{
+  background-color: red;
+  width: 5px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}

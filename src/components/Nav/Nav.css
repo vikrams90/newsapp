@@ -1,0 +1,29 @@
+.search{
+    border-radius: 20px 0 0 20px;
+    border: none;
+    height: 43px;
+    padding-left: 20px;
+    outline: none;
+}
+
+.search-btn{
+    border-radius: 0px 20px 21px 0px;
+    height: 100%;
+    padding: 0 20px ;
+    height: 43px;
+    border: none;
+    
+}
+
+.fav-logo{
+    fill: white ;
+   
+}
+
+.fav-logo:hover{
+    fill: rgb(255, 65, 65);
+}
+
+.login-logo:hover{
+    fill: rgb(99, 99, 250);
+}
